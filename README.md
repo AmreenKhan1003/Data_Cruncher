@@ -1,6 +1,6 @@
 # Data_Cruncher
 
-### CLI application which encodes and decodes the data through the Huffman coding algorithm. It compresses and decompresses text files. Users can provide the input file that they want to compress and the application will generate an encoded file which is considered as a compressed file that can be used further for decompression. The user can again provide the encoded file and the application can decode it by generating a decoded file which is the same as the actual input file this process is nothing but decompression.
+**CLI application which encodes and decodes the data through the Huffman coding algorithm. It compresses and decompresses text files. Users can provide the input file that they want to compress and the application will generate an encoded file which is considered as a compressed file that can be used further for decompression. The user can again provide the encoded file and the application can decode it by generating a decoded file which is the same as the actual input file this process is nothing but decompression.**
 
 # Procedure:
 
